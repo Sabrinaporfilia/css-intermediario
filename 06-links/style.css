@@ -1,0 +1,17 @@
+a{
+    cursor: crosshair;
+    margin: 20px;
+    padding: 10px;
+}
+
+a:visited {
+    color: lawngreen;
+}
+
+a:active{
+    color: red;
+}
+a:hover {
+    background-color: rebeccapurple;
+    color: white;
+}

@@ -1,0 +1,1 @@
+olá sobre esta aula ela esta incluida na aula 12-responsividade-media-queries, mais explicações no notion
